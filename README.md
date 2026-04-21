@@ -27,4 +27,4 @@ VencIA é um projeto em Work in progress, é um Agente de IA para analise de con
 - Análise de Risco (Responsabilidade, Rescisão, Pagamento, Confidencialidade).
 - Suporte multi-provedor (Gemini, Groq, OpenRouter).
 - Histórico persistente com SQLite.
-- ChabtBot Jurix , funciona como um assistente jurídico.
+- ChatBot Jurix , funciona como um assistente jurídico.
