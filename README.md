@@ -68,9 +68,9 @@ VencIA é um projeto em Work in progress, um Agente de IA para analise de contra
 - Este é um projeto em desenvolvimento e em breve estará em produção, mais existem algumas observações importantes a considerar:
 - Por enquanto é um modelo de SAAS, MVP.
 - Podemos evoluir:
- **Frontend** :
+ -**Frontend** :
 - Como esta com cara de DEMO, e somente com streamilit acaba ficando um pouco limitado as configurações, a ideia é utilizar uma interface mais moderna com REACT por exmeplo.
- **Backend** :
+ -**Backend** :
 - Certificar melhor a segurança e estabelecer regras de negócio ainda mais robustas e a integração com banco de dados, evoluir para MONGODB.
 - Verificação de emails, para que não tenhamos usuários fake cadastrados , isso acaba consumindo a API e tokes, poderá ser testado com DEMO.
 - A preocupação com o consumo de tokes é primordial, administrar a quantidade de contratos que podem ser analisados e tamanho dos documentos, máximo 5mb por exemplo, talvez 1-2 contratos por usuário ao dia e um limite de 5 por mês.
